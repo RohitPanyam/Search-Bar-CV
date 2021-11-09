@@ -1,10 +1,10 @@
-1. Above code is code for the python application ( dress recognition )
+1. Above code is code for the python application ( dress recognition and recommendation )
 2. The web application ( node js server side ) code can be found seperately at -- https://github.com/aniket2345/MyntraCodetwo
 3. The code for the Online Virtual shop, and the ( node js app + python clothes detection app ), can be found all in one place at the Link : https://vitacin-my.sharepoint.com/:f:/g/personal/aniket_vishwakarma2019_vitstudent_ac_in/EgbQIZL-KZxKk0SWzUdrxWsBPOBW7qmU9ZBJYZrAhJLi8w?e=jM95zK
 4. This link contains of the files which are correspond with the Game dev part and the website and dress recognition and recommendation part implemented together in their respective paths. ( Final folder contains the dress recognition, the MyntraFive - Copy folder contains C++ code and assets for the virtual shop )
 
 # Search-Bar-CV
-Search bar making using of images (dress recognition and recomendation)
+Search bar making using of images (dress recognition and recommendation)
 
 ## Steps to follow
 1. clone the repo into a folder "x".
